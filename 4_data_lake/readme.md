@@ -43,7 +43,7 @@ The files contained in the following repository are:
 
 ## FOLLOW NEXT INSTRUCTION TO RUN THE PROJECT
 
-It is assumed that you have knowledge of Spark and you have Spark installed and correctly configured, for this exercise Spark version 3.0 was used, that said the steps to deploy the project are:
+It is assumed that you have knowledge of Spark and you have Spark installed and correctly configured, for this exercise Spark version 2.4.3 was used, that said the steps to deploy the project are:
 
 If S3 is to be used as data lake:
 
