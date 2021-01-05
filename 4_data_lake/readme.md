@@ -27,7 +27,7 @@ Data sets specify their name, description, and fields, as shown below:
         - artists - artists in music database: artist_id, name, location, lattitude, longitude
         - time - timestamps of records in songplays broken down into specific units: start_time, hour, day, week, month, year, weekday
 
-### Files:
+## FILES:
 
 The files contained in the following repository are:
 
@@ -39,7 +39,7 @@ The files contained in the following repository are:
 - input: contains the uncompressed data sets
 - output: contains the tables of the star schema required by Sparkify
 
-### Follow next instruction to run the project:
+## FOLLOW NEXT INSTRUCTION TO RUN THE PROJECT:
 
 It is assumed that you have knowledge of Spark and you have Spark installed and correctly configured, for this exercise Spark version 3.0 was used, that said the steps to deploy the project are:
 
