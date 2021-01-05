@@ -1,5 +1,7 @@
 # PROJECT - DATA LAKE
 
+The technologies learning in this project were Spark developing ETLs and S3 for storage as a Data Lake.
+
 ## PURPOSE
 
 This is the fourth udacity nanodegree project, which consists of developing a datalake for a music streaming startup called Sparkify. The objective is to take the input data sets and through a series of ETLs convert them into a fact table and a series of dimensional tables to obtain the star shape schema required to implement the analytics required by the Sparkify team. 
@@ -27,7 +29,7 @@ Data sets specify their name, description, and fields, as shown below:
         - artists - artists in music database: artist_id, name, location, lattitude, longitude
         - time - timestamps of records in songplays broken down into specific units: start_time, hour, day, week, month, year, weekday
 
-## FILES:
+## FILES
 
 The files contained in the following repository are:
 
@@ -39,7 +41,7 @@ The files contained in the following repository are:
 - input: contains the uncompressed data sets
 - output: contains the tables of the star schema required by Sparkify
 
-## FOLLOW NEXT INSTRUCTION TO RUN THE PROJECT:
+## FOLLOW NEXT INSTRUCTION TO RUN THE PROJECT
 
 It is assumed that you have knowledge of Spark and you have Spark installed and correctly configured, for this exercise Spark version 3.0 was used, that said the steps to deploy the project are:
 
