@@ -22,7 +22,6 @@ In total there are 5 projects:
 
 The datasets used for all the project are almost the same and the output requirements for this data is also almost the same, just developing ETLs for moving and transforming data. The main objective of the projects is to get used to working with these technologies in terms of what data engineers do in their daily work.
 
-### DISCLAIMER
+6. [Capstone Project](https://github.com/seobando/UDACITY_DE/tree/master/capstone_project)
 
-- The pipeline I'm working in the pipeline project and when I finished I'll start with the capstone, so if the code for the project 1-4 are working code.
-
+However the dataset for the captone project is totally different and the analysis process y open, so there is n posible solutions for the capstone project.
